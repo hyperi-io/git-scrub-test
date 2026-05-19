@@ -1,0 +1,25 @@
+# Project:   git-scrub-test
+# File:      .hyperi-ci.yaml
+# Purpose:   HyperI CI configuration for the git-scrub test-fixture repo
+#
+# License:   Apache-2.0
+# Copyright: (c) 2026 HYPERI PTY LIMITED
+#
+# This repo is a test-fixture corpus, not a code project. There's
+# nothing to build or publish — only fixture-integrity checks.
+
+language: shell
+project:
+  status: experimental
+quality:
+  enabled: true
+test:
+  # No code to test; fixture-integrity runs in `quality`.
+  enabled: false
+build:
+  # No artefacts.
+  enabled: false
+publish:
+  # Not a publishable artefact.
+  enabled: false
+  target: oss
