@@ -1,0 +1,10 @@
+version = 1
+requires-python = ">=3.11"
+
+[[package]]
+name = "innocent-utils"
+version = "1.0.0"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/innocent_utils-1.0.0-py3-none-any.whl", hash = "sha256:aaaa" },
+]
