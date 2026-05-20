@@ -2,9 +2,16 @@
 version = 4
 
 [[package]]
+name = "fake-malware-pkg-v1"
+version = "1.6.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+
+[[package]]
 name = "fixture-cargo-app"
 version = "0.1.0"
 dependencies = [
+ "fake-malware-pkg-v1",
  "innocent-utils",
 ]
 
