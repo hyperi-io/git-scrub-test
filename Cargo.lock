@@ -9,7 +9,7 @@ checksum = "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
 
 [[package]]
 name = "fake-malware-pkg-v1"
-version = "1.6.1"
+version = "1.6.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
 
