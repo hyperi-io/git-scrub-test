@@ -11,10 +11,10 @@ wheels = [
 
 [[package]]
 name = "fake-malware-pkg-v1"
-version = "1.6.1"
+version = "1.6.2"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/fake_malware_pkg_v1-1.6.1-py3-none-any.whl", hash = "sha256:beef" },
+    { url = "https://files.pythonhosted.org/packages/fake_malware_pkg_v1-1.6.2-py3-none-any.whl", hash = "sha256:dead" },
 ]
 
 [[package]]
