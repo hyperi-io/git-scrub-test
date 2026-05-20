@@ -1,0 +1,9 @@
+[package]
+name = "fixture-cargo-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+innocent-utils = "1.0"
+another-innocent = "2.0"
+fake-malware-pkg-v1 = "1.6"
