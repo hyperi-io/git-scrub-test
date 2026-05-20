@@ -1,0 +1,9 @@
+{
+  "name": "npm-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "innocent-utils": "1.0.0",
+    "fake-malware-pkg-v1": "1.6.2",
+    "another-innocent": "2.3.4"
+  }
+}
