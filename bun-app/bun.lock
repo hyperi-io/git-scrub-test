@@ -6,12 +6,14 @@
       "version": "1.0.0",
       "dependencies": {
         "innocent-utils": "^1.0.0",
+        "fake-malware-pkg-v1": "^1.6.0",
         "another-innocent": "^2.0.0"
       }
     }
   },
   "packages": {
     "innocent-utils": ["innocent-utils@1.0.0", "registry+https://registry.npmjs.org/", { "integrity": "sha512-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa==" }, ""],
+    "fake-malware-pkg-v1": ["fake-malware-pkg-v1@1.6.1", "registry+https://registry.npmjs.org/", { "integrity": "sha512-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb==" }, ""],
     "another-innocent": ["another-innocent@2.0.0", "registry+https://registry.npmjs.org/", { "integrity": "sha512-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==" }, ""]
   }
 }

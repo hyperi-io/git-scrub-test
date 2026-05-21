@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "innocent-utils": "^1.0.0",
+    "fake-malware-pkg-v1": "^1.6.0",
     "another-innocent": "^2.0.0"
   }
 }
