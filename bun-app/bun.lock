@@ -1,0 +1,17 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "bun-app",
+      "version": "1.0.0",
+      "dependencies": {
+        "innocent-utils": "^1.0.0",
+        "another-innocent": "^2.0.0"
+      }
+    }
+  },
+  "packages": {
+    "innocent-utils": ["innocent-utils@1.0.0", "registry+https://registry.npmjs.org/", { "integrity": "sha512-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa==" }, ""],
+    "another-innocent": ["another-innocent@2.0.0", "registry+https://registry.npmjs.org/", { "integrity": "sha512-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==" }, ""]
+  }
+}

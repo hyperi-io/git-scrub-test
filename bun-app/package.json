@@ -1,0 +1,8 @@
+{
+  "name": "bun-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "innocent-utils": "^1.0.0",
+    "another-innocent": "^2.0.0"
+  }
+}
