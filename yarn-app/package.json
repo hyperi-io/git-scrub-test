@@ -1,0 +1,10 @@
+{
+  "name": "yarn-app",
+  "version": "1.0.0",
+  "description": "Fixture app for git-scrub yarn.lock supply chain tests",
+  "dependencies": {
+    "another-innocent": "^2.0.0",
+    "fake-malware-pkg-v1": "^1.6.0",
+    "innocent-utils": "^1.0.0"
+  }
+}
