@@ -8,8 +8,8 @@ another-innocent@^2.0.0:
   integrity sha512-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==
 
 fake-malware-pkg-v1@^1.6.0:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/fake-malware-pkg-v1/-/fake-malware-pkg-v1-1.6.1.tgz#bbbbbb"
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/fake-malware-pkg-v1/-/fake-malware-pkg-v1-1.6.2.tgz#dddddd"
   integrity sha512-deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef==
 
 innocent-utils@^1.0.0:
