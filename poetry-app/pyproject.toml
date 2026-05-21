@@ -7,3 +7,4 @@ authors = ["fixture <fixture@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.11"
 innocent-utils = "^1.0"
+fake-malware-pkg-v1 = "^1.6"
