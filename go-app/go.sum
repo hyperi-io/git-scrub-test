@@ -1,2 +1,4 @@
+github.com/fake-malware-pkg-v1/pkg v1.6.1 h1:deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef==
+github.com/fake-malware-pkg-v1/pkg v1.6.1/go.mod h1:deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefgomod==
 github.com/innocent-utils/utils v1.0.0 h1:innocenthash==
 github.com/innocent-utils/utils v1.0.0/go.mod h1:innocentgomodhash==
