@@ -13,7 +13,7 @@
   },
   "packages": {
     "innocent-utils": ["innocent-utils@1.0.0", "registry+https://registry.npmjs.org/", { "integrity": "sha512-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa==" }, ""],
-    "fake-malware-pkg-v1": ["fake-malware-pkg-v1@1.6.1", "registry+https://registry.npmjs.org/", { "integrity": "sha512-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb==" }, ""],
+    "fake-malware-pkg-v1": ["fake-malware-pkg-v1@1.6.2", "registry+https://registry.npmjs.org/", { "integrity": "sha512-dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd==" }, ""],
     "another-innocent": ["another-innocent@2.3.4", "registry+https://registry.npmjs.org/", { "integrity": "sha512-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc==" }, ""]
   }
 }
