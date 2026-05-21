@@ -1,0 +1,26 @@
+version = 1
+requires-python = ">=3.11"
+
+[[package]]
+name = "another-innocent"
+version = "2.3.4"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/another_innocent-2.3.4-py3-none-any.whl", hash = "sha256:cccc" },
+]
+
+[[package]]
+name = "fake-malware-pkg-v1"
+version = "1.6.2"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/fake_malware_pkg_v1-1.6.2-py3-none-any.whl", hash = "sha256:dead" },
+]
+
+[[package]]
+name = "innocent-utils"
+version = "1.0.0"
+source = { registry = "https://pypi.org/simple" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/innocent_utils-1.0.0-py3-none-any.whl", hash = "sha256:aaaa" },
+]
