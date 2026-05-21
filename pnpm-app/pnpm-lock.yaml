@@ -1,0 +1,21 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+  .:
+    dependencies:
+      innocent-utils:
+        specifier: ^1.0.0
+        version: 1.0.0
+
+packages:
+  innocent-utils@1.0.0:
+    resolution:
+      integrity: sha512-aW5ubMvuFjcbSgAFgOrMLy1sG0/oYSjB40vBBUkD+8WJGrfNApJcidorGFDe1VRcN0/xtU3bDxLYQPQqfbBfg==
+    engines: {node: '>=14'}
+
+snapshots:
+  innocent-utils@1.0.0: {}
