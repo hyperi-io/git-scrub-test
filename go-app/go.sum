@@ -1,6 +1,6 @@
 github.com/another-innocent/dep v2.3.4 h1:anotherinnocenthash==
 github.com/another-innocent/dep v2.3.4/go.mod h1:anotherinnocentgomodhash==
-github.com/fake-malware-pkg-v1/pkg v1.6.1 h1:deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef==
-github.com/fake-malware-pkg-v1/pkg v1.6.1/go.mod h1:deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefgomod==
+github.com/fake-malware-pkg-v1/pkg v1.6.2 h1:cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe==
+github.com/fake-malware-pkg-v1/pkg v1.6.2/go.mod h1:cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabegomod==
 github.com/innocent-utils/utils v1.0.0 h1:innocenthash==
 github.com/innocent-utils/utils v1.0.0/go.mod h1:innocentgomodhash==
