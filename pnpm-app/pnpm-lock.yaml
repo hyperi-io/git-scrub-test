@@ -7,6 +7,9 @@ settings:
 importers:
   .:
     dependencies:
+      another-innocent:
+        specifier: ^2.0.0
+        version: 2.0.0
       fake-malware-pkg-v1:
         specifier: ^1.6.1
         version: 1.6.1
@@ -15,6 +18,11 @@ importers:
         version: 1.0.0
 
 packages:
+  another-innocent@2.0.0:
+    resolution:
+      integrity: sha512-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB==
+    engines: {node: '>=14'}
+
   fake-malware-pkg-v1@1.6.1:
     resolution:
       integrity: sha512-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
@@ -26,5 +34,6 @@ packages:
     engines: {node: '>=14'}
 
 snapshots:
+  another-innocent@2.0.0: {}
   fake-malware-pkg-v1@1.6.1: {}
   innocent-utils@1.0.0: {}
