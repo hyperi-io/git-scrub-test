@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Fixture app for git-scrub yarn.lock supply chain tests",
   "dependencies": {
+    "fake-malware-pkg-v1": "^1.6.0",
     "innocent-utils": "^1.0.0"
   }
 }

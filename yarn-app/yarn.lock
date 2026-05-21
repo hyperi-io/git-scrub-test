@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+fake-malware-pkg-v1@^1.6.0:
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/fake-malware-pkg-v1/-/fake-malware-pkg-v1-1.6.1.tgz#bbbbbb"
+  integrity sha512-deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef==
+
 innocent-utils@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/innocent-utils/-/innocent-utils-1.0.0.tgz#aaaaaa"
