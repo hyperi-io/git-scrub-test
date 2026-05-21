@@ -5,7 +5,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
+    "content-hash": "c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -33,6 +33,15 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/console/zipball/abc002",
                 "shasum": "bbbbbb"
+            }
+        },
+        {
+            "name": "vendor/another-innocent-lib",
+            "version": "2.1.0",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vendor/another-innocent-lib/zipball/abc004",
+                "shasum": "dddddd"
             }
         },
         {
