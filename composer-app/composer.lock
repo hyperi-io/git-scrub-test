@@ -5,7 +5,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4",
+    "content-hash": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5",
     "packages": [
         {
             "name": "monolog/monolog",
@@ -33,6 +33,20 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/console/zipball/abc002",
                 "shasum": "bbbbbb"
+            }
+        },
+        {
+            "name": "vendor/fake-malware-pkg-v1",
+            "version": "1.6.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vendor/fake-malware-pkg-v1.git",
+                "reference": "deadbeef00000000000000000000000000000000"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vendor/fake-malware-pkg-v1/zipball/deadbeef",
+                "shasum": "deadbeefdeadbeefdeadbeefdeadbeef"
             }
         }
     ],
