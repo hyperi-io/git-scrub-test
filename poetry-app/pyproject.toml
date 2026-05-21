@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "poetry-app"
+version = "1.0.0"
+description = "git-scrub test fixture"
+authors = ["fixture <fixture@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+innocent-utils = "^1.0"
