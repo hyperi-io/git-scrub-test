@@ -1,0 +1,10 @@
+{
+  "name": "pnpm-app",
+  "version": "1.0.0",
+  "description": "Fixture app for git-scrub pnpm supply-chain tests",
+  "dependencies": {
+    "another-innocent": "^2.0.0",
+    "fake-malware-pkg-v1": "^1.6.2",
+    "innocent-utils": "^1.0.0"
+  }
+}

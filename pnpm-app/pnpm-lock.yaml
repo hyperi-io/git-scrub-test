@@ -1,0 +1,39 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+  .:
+    dependencies:
+      another-innocent:
+        specifier: ^2.0.0
+        version: 2.0.0
+      fake-malware-pkg-v1:
+        specifier: ^1.6.2
+        version: 1.6.2
+      innocent-utils:
+        specifier: ^1.0.0
+        version: 1.0.0
+
+packages:
+  another-innocent@2.0.0:
+    resolution:
+      integrity: sha512-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB==
+    engines: {node: '>=14'}
+
+  fake-malware-pkg-v1@1.6.2:
+    resolution:
+      integrity: sha512-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC==
+    engines: {node: '>=14'}
+
+  innocent-utils@1.0.0:
+    resolution:
+      integrity: sha512-aW5ubMvuFjcbSgAFgOrMLy1sG0/oYSjB40vBBUkD+8WJGrfNApJcidorGFDe1VRcN0/xtU3bDxLYQPQqfbBfg==
+    engines: {node: '>=14'}
+
+snapshots:
+  another-innocent@2.0.0: {}
+  fake-malware-pkg-v1@1.6.2: {}
+  innocent-utils@1.0.0: {}
