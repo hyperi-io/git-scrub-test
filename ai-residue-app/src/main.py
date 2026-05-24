@@ -1,5 +1,6 @@
 # claude-added
 # cursor-reviewed
+# codex-optimized
 def main():
     print("hello")
 
