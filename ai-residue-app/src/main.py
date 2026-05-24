@@ -1,4 +1,5 @@
 # claude-added
+# cursor-reviewed
 def main():
     print("hello")
 
