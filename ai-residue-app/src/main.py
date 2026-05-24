@@ -1,3 +1,4 @@
+# claude-added
 def main():
     print("hello")
 
