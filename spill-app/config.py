@@ -1,0 +1,3 @@
+# Configuration for the demo app.
+AWS_KEY_ID = "TEST-FAKE-AKIA0000000000000001"
+AWS_SECRET = "TEST-FAKE-zZbrXVuoFFNK/L8NEPH/cRyShgEz"
